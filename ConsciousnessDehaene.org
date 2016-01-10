@@ -1,0 +1,399 @@
+#+TITLE: Consciousness and the brain by Stanislas Dehaene
+#+SHORT_TITLE: ConsciousnessDehaene.org
+#+AUTHOR: QB JN
+#+EMAIL: nikadon [at] gmail [dot] com
+
+* Settings
+  #+NAME: SIM-BATCH
+  #+BEGIN_SRC emacs-lisp :eval yes :results output silent
+    (setq org-image-actual-width '(1200))
+  #+END_SRC
+* Stanislas Dehaene (born 12 May 1965)
+** Picture
+   [[./pictures/Stanislas_Dehaene_2014.jpg]]
+** Short bio
+  - [ ] professor of Experimental Cognitive Psychology at the Collège de France.
+  - [ ] member of the French Academy of Sciences,
+  - [ ] foreign associate of the US Academy of Science,
+  - [ ] member of the Pontifical Academy
+  - [ ] director of the Cognitive Neuroimaging INSERM-CEA Unit (since 1997)
+    INSERM (English: French Institute of Health and Medical Research)
+    - Consists of 339 research units, run by 6,500 permanent staff members.
+    - 80% of INSERM research units are embedded in research hospitals of French universities.
+  - [ ] worked on a number of topics, including
+    - numerical cognition,
+    - neural basis of reading and
+    - neural correlates of consciousness.
+  - [ ] In 2014, together with Giacomo Rizzolatti and Trevor Robbins,
+    he was awarded the /Brain Prize/ (Grete Lundbeck European Brain Research Prize)
+  - [ ] began his training as a *mathematician*,
+    (1984-1989, École Normale Supérieure in Paris).
+  - [ ] Masters degree in Applied mathematics and computer science
+    (1985, University of Paris VI).
+  - [ ] after reading Jean-Pierre Changeux's book,
+    "L'Homme neuronal" (Neuronal Man: The Biology of The Mind).
+    he turned to neuroscience and psychology.
+    Inspired by Changeux's work, he began to collaborate with him on
+    =computational neuronal models= of human cognition,
+    including /working memory/ and /task control/,
+  - [ ] completed his PhD in Experimental Psychology in 1989 with Jacques Mehler
+    (École des Hautes Études en Sciences Sociales, Paris).
+* The book: Consciousnes and the Brain by Stanislas Dehaene
+  *Consciousness and the brain: deciphering how the brain codes our thoughts*
+  (2014, Stanislas Dehaene, A Penguin Random House Company)
+* Dualism
+** Lascaux Caves
+*** Picture
+    [[./pictures/LascauxCavesDream.jpg]]
+*** Description
+    Dated ~18,000 years ago, painting depicts male during REM sleep.
+    Bird almost universal cross cultural symbol of soul/mind.
+    Intuition: thoughts belong to a different realm from the body.
+** Aphrodite
+   [[./pictures/aphrodite.jpg]]
+** Sielulintu (finnish paganism)
+   [[./pictures/Sielulintu2.jpg]]
+** Holy Trinity
+   [[./pictures/trinity.png]]
+** CONCLUSION
+   - Flying spirits appear as a universal metaphor for the autonomous mind.
+   - Behind the bird allegory stands an intuition:
+     - the stuff of our thoughts differs radically from
+     - the lowly matter that shapes our bodies.
+* Defining consciousness
+  1. Dissection (examples)
+     Often necessary, but not sufficient,
+     condition for scientific progress is to carve out new
+     distinctions that refine the /fuzzy/ categories of natural
+     language.
+
+     Classic example is the separation of the concepts
+     of mass and weight or heat and temperature
+
+     - Mass vs weight
+       - mass ::
+         refers loosely to the amount of "matter" in an object
+       - weight ::
+         refers to the force experienced by an object due to gravity.
+       - an object with a mass of 1.0 kilogram will weigh approximately 9.81 newtons
+         (newton is the unit of force, while kilogram is the unit of mass)
+         on the surface of the Earth
+         (its mass multiplied by the gravitational field strength).
+         Its weight will be
+         - less on Mars (where gravity is weaker),
+         - more on Saturn, and
+         - negligible in space when far from any significant source of gravity,
+         but it will *always* have the same mass.
+     - Heat vs temperature
+       - Everyday intuition treats them as one and the same.
+       - After all, adding heat to something will increase
+         its temperature, right?
+       - Wrong—a block of ice, when heated, will
+         melt while staying at a fixed temperature of zero degrees Celsius.
+       - A material may have a high temperature (e.g., a firework
+         spark, which may reach a few thousand degrees Celsius) but have
+         so little heat that it won’t burn the skin (because it has very
+         little mass).
+       - In the nineteenth century, distinguishing heat (the
+         amount of energy transferred) from temperature (the average
+         kinetic energy in a body) was key to making progress in
+         thermodynamics.
+  2. Initial intuitions
+     - Consciousness 00 ::
+       - loaded with /fuzzy/ meanings in everyday speech
+       - covers a broad range of complex phenomena
+       - we need to narrow our subject matter to a definite point
+         that can be subjected to precise experiments
+     - Consciousness 01 ::
+       - vigilance ::
+            the state of wakefulness, which varies when we fall asleep or
+            wake up;
+       - attention ::
+            the focusing of our mental resources onto a specific piece of
+           information; and
+       - conscious access ::
+            the fact that some of the attended information eventually
+            enters our awareness and becomes reportable to others.
+  3. *Conscious access* - counts as genuine *consciousness*
+     whenever we are awake, whatever we decide to focus on may become conscious.
+     Neither vigilance nor attention alone is sufficient!
+  4. “Problem” with I and me
+  5. “Problem” with “phenomenal awareness”
+     “phenomenal awareness” is the intuitive feeling, present in all of
+     us, that our internal experiences possess exclusive qualities,
+     unique qualiasuch as the exquisite sharpness of tooth pain or the
+     inimitable greenness of a fresh leaf. These inner qualities, they
+     argue, can never be reduced to a scientific neuronal description;
+     by nature, they are personal and subjective, and thus they defy
+     any exhaustive verbal communication to others. But I disagree,
+     and I will argue that the notion of a phenomenal consciousness
+     that is distinct from conscious access is highly misleading and
+     leads down a slippery slope to dualism. We should start simple
+     and first study conscious access. Once we clarify how any piece
+     of sensory information can gain access to our mind and become
+     reportable, then the insurmountable problem of our ineffable
+     experiences will disappear.
+     docview:Dehaene.pdf::20
+  6. Vexing issues of free will and self-consciousness can be shelved
+     for later.  We can concentrate on the narrower issue of
+     *conscious access* explaining why some of our sensations turn
+     into conscious perceptions, while others remain unconscious using
+     *experimental designs* that allow us to create /minimal/ contrasts
+     between conscious and unconscious perception.
+* Simple research program
+** Aim
+   Search for objective mechanisms of subjective states, systematic
+   “signatures” in brain activity that index the transition from
+   unconsciousness to consciousness.
+   [[./illusions/]]
+** Example 1
+   [[./illusions/gray-circles.jpg]]
+** Example 2
+   [[./illusions/Bonneh_mib_table1.gif]]
+
+** Expectations
+   Is there a single pattern of brain activity that underlies all
+   conscious states and that provides a unifying “signature” of
+   conscious access in the brain? (Dehaene, 2014)
+** Grounds
+   1. Prevalence and reproducibility
+
+      Illusions are eminently
+      subjective—only subject can tell when and where the dots
+      disappear in his/her mind. Yet the results are reproducible:
+      [nearly] anyone who watches the figure reports having the same
+      kind of experience.
+
+   2. Objectivity vs subjectivity
+
+      Emphasis on the subjective has been
+      a revolution for psychology. At the beginning of the twentieth
+      century, behaviorists such as John Broadus Watson (1878–1958)
+      had forcefully ousted introspection from the science of
+      psychology:
+
+      #+BEGIN_QUOTE
+      Psychology as the behaviorist views it is a purely objective
+      experimental branch of natural science. Its theoretical goal is
+      the prediction and control of behaviour. Introspection forms no
+      essential part of its methods, nor is the scientific value of
+      its data dependent upon the readiness with which they lend
+      themselves to interpretation in terms of consciousness.
+      #+END_QUOTE
+
+      Although behaviorism itself was also eventually rejected, it
+      left a lasting mark: throughout the twentieth century, any
+      recourse to introspection remained highly suspicious in
+      psychology. However, I will argue that this dogmatic position is
+      dead wrong. It conflates two distinct issues:
+      - introspection as a /research method/, and
+      - introspection as /raw data/.
+
+   3. Basic and BF method
+
+      As long as we carefully record, on every
+      trial, what our participants feel, we are in business, because
+      then we can sort the trials into conscious and unconscious ones
+      and search for brain activity patterns that separate them.
+
+      We can probe the extent to which a
+      stimulus that people claim not to have seen is in fact processed
+      by the brain.
+
+* Conscious access
+** Basic facts
+   Conscious access is, at once, extraordinarily open and
+   inordinately selective.
+
+   I can become
+   conscious of a color, a scent, a sound, a lost memory, a feeling,
+   a strategy, an error—or even the multiple meanings of the word
+   consciousness
+
+   I may even become self-
+   conscious—which means that my emotions, strategies, errors, and
+   regrets will enter my conscious mind.
+
+   At any moment, however, the
+   actual repertoire of consciousness is dramatically limited.
+
+   It is precisely that switch from preconscious to
+   conscious, suddenly letting a piece of information into
+   awareness,
+** Not to be confused with attention
+   We need to distinguish conscious access from mere attention.
+
+   In The Principles of Psychology (1890), William James proposed a
+   famous definition.
+   #+BEGIN_QUOTE
+   [Attention, he said, is] “the taking possession by the mind, in
+   clear and vivid form, of one out of what seem several
+   simultaneously possible objects or trains of thought.”
+   #+END_QUOTE
+
+   This definition actually conflates two different notions with
+   distinct brain mechanisms: selection and access.
+
+   “Taking possession by the mind” is essentially what I have called
+   conscious access.
+
+   That aspect of attention, almost by definition, coincides with
+   consciousness: when an object takes possession of our mind such
+   that we can report it (verbally or by gesturing), then we are
+   conscious of it.
+
+   James’s definition also includes a second concept: the
+   isolation of one out of many possible trains of thought, which we
+   now call “selective attention.” At any moment, our sensory
+   environment is buzzing with myriad potential perceptions.
+
+   Clearly, most if not all of the selective functions of
+   attention have to operate outside our awareness.
+
+   Selective attention and conscious access are distinct processes!!!
+** Not to be confused with vigilance
+   AKA: “intransitive consciousness”.
+
+   In English,
+   the adjective conscious can be transitive: we can be conscious of
+   a trend, a touch, a tingle, or a toothache. In this case, the
+   word denotes “conscious access,” the fact that an object may or
+   may not enter our awareness.
+
+   But conscious can also be
+   intransitive, as when we say “the wounded soldier remained
+   conscious.” Here it refers to a state with many gradations. In
+   this sense, consciousness is a general faculty that we lose
+   during sleep, when we faint, or when we undergo general
+   anesthesia.
+
+   To avoid confusion, scientists often refer to this sense of
+   consciousness as “wakefulness” or “vigilance.”
+
+** Relation between conscious access, wakefulness and vigilance
+   Wakefulness, vigilance, and attention are just enabling
+   conditions for conscious access.
+
+   They are necessary but not always sufficient to make us aware of a
+   specific piece of information.
+
+   For instance, some patients, following a small stroke in the visual
+   cortex, may become color-blind. These patients are still awake and
+   attentive: their vigilance is intact, and so is their capacity to
+   attend. But the loss of a small circuit specialized in color
+   perception prevents them from gaining access to this aspect of the
+   world.
+
+   Patients in a vegetative state who still awaken in the
+   morning and fall asleep at night—yet do not seem to access any
+   information consciously during their waking time. Their
+   wakefulness is intact, yet their impaired brain no longer seems
+   able to sustain conscious states.
+
+** Not to be confused with self
+   Mirror recognition need not indicate consciousness. It
+   could be accomplished by an utterly unconscious device that
+   merely predicts how the body should look and move and that
+   adjusts its movements based on a comparison of these predictions
+   with the actual visual stimulation—as when I thoughtlessly use a
+   mirror to shave.
+
+   In my view, self-consciousness is much like consciousness
+   of color or sound. Becoming conscious of some aspect of myself
+   could just be another form of conscious access in which the
+   information being accessed is not sensory in nature but concerns
+   one of the various mental representations of “me”—my body, my
+   behavior, my feelings, or my thoughts.
+
+   What is special and fascinating about self-consciousness is that
+   it seems to include a strange loop.  When I reflect upon myself,
+   the “I” appears twice, both as the perceiver and as the
+   perceived.
+
+   How is this possible? This recursive sense of
+   consciousness is what cognitive scientists call /metacognition/ :
+   the capacity to think about one’s own mind.
+
+   The French positivist
+   philosopher Auguste Comte (1798–1857) considered this a logical
+   impossibility. “The thinking individual,” he wrote, “could not
+   divide into two, one reasoning, the other watching the reasoning.
+   The observed organ and the observing organ being identical in
+   this case, how could the observation be made?”
+
+   Comte was wrong, however: as John Stuart Mill immediately noted,
+   the paradox dissolves when the observing and the observed are
+   encoded at different times or within different systems. One brain
+   system may notice when another fails. We do it all the time, as
+   when we experience a word on the tip of our tongue (we know we
+   should know), notice a reasoning error (we know we erred), or
+   brood over a failed exam (we know we studied, we thought we knew
+   the answers, and we cannot imagine why we failed). Some areas of
+   the prefrontal cortex monitor our plans, attach confidence to our
+   decisions, and detect our errors.
+** Not to be confused with “qualia”
+   Some philosophers still think that none of the above ideas will
+   suffice to solve the problem. The heart of the problem, they
+   believe, lies in another sense of consciousness, which they call
+   “phenomenal awareness”: the intuitive feeling, present in all of
+   us, that our internal experiences possess exclusive qualities,
+   unique qualiasuch as the exquisite sharpness of tooth pain or the
+   inimitable greenness of a fresh leaf.
+
+   These inner qualities, they argue, can never be reduced to a
+   scientific neuronal description; by nature, they are personal and
+   subjective, and thus they defy any exhaustive verbal communication
+   to others. But I disagree, and I will argue that the notion of a
+   phenomenal consciousness that is distinct from conscious access is
+   highly misleading and leads down a slippery slope to dualism. We
+   should start simple and first study conscious access. Once we
+   clarify how any piece of sensory information can gain access to our
+   mind and become reportable, then the insurmountable problem of our
+   ineffable experiences will disappear.
+
+   My opinion is that Chalmers swapped the labels: it is the “easy”
+   problem that is hard, while the hard problem just seems hard because
+   it engages ill-defined intuitions. Once our intuition is educated by
+   cognitive neuroscience and computer simulations, Chalmers’s hard
+   problem will evaporate.
+* Experimental methods
+** Minimal Contrasts
+** Rival Images
+** Attention Blinks
+** Masking Conscious Perception
+** Primacy of the Subjective
+* yyyy
+* Global Neuronal Workspace
+  We propose that consciousness is global information broadcasting
+  within the cortex: it arises from a neuronal network whose raison
+  d’être is the massive sharing of pertinent information throughout
+  the brain.
+
+  Thus consciousness has a precise role to play in the computational
+  economy of the brain—it selects, amplifies, and propagates relevant
+  thoughts (Dehaene, 2014, p.27)
+
+  [+ Backprop]
+
+  We believe that a special set of neurons diffuses
+  conscious messages throughout the brain: giant cells whose long
+  axons crisscross the cortex, interconnecting it into an
+  integrated whole. Computer simulations of this architecture have
+  reproduced our main experimental findings. When enough brain
+  regions agree about the importance of incoming sensory
+  information, they synchronize into a large-scale state of global
+  communication.
+
+  Once information is conscious, it can enter into a long
+  series of arbitrary operations—it is no longer processed in a
+  reflexive manner but can be pondered and reoriented at will.
+
+  Equally fundamental to the global neuronal workspace is its
+  autonomy. Recent studies have revealed that the brain is the seat
+  of intense spontaneous activity. It is constantly traversed by
+  global patterns of internal activity that originate not from the
+  external world but from within, from the neurons’ peculiar
+  capacity to self-activate in a partly random fashion.
+
+* Notes
+  winner-takes-all mode
